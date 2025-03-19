@@ -5,8 +5,6 @@ import RecentProject from "@/components/RecentProject";
 import { FloatingNav } from "@/components/UI/FloatingNav";
 import WorkExp from "@/components/WorkExp";
 import { navItems } from "@/Data";
-import Image from "next/image";
-import { FaHome } from "react-icons/fa";
 
 export default function Home() {
   return (
