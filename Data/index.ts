@@ -11,7 +11,7 @@ export const navItems = [
       title: "I prioritize client collaboration, fostering open communication ",
       description: "",
       // className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
-      className: "md:col-span-3 md:row-span-4 lg:col-span-3 lg:row-span-4 lg:min-h-[60vh]",
+      className: "md:col-span-3 md:row-span-4 lg:col-span-3 lg:row-span-4 lg:min-h-[60vh] border-4 border-red-50",
       imgClassName: "w-full h-full",
       titleClassName: "justify-end",
       img: "/b1.svg",
